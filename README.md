@@ -29,7 +29,7 @@ An intelligent code review assistant powered by Google's Gemini AI, built with C
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-code-review-agent.git
+   git clone https://github.com/Ahmed-KHI/ai-code-review-agent.git
    cd ai-code-review-agent
    ```
 
@@ -162,7 +162,7 @@ python -c "from code_review_agent import review_code; print('✅ Import successf
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/ai-code-review-agent/issues) page
+1. Check the [Issues](https://github.com/Ahmed-KHI/ai-code-review-agent/issues) page
 2. Create a new issue with detailed description
 3. Join our community discussions
 
@@ -176,6 +176,6 @@ If this project helps you, please consider:
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Muhammad Ahmed]**
 
 *Helping developers write better code, one review at a time.*
